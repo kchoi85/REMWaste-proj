@@ -1,0 +1,13 @@
+.step-nav {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.step {
+  color: #bbb;
+  font-size: 0.9rem;
+  cursor: pointer;
+}

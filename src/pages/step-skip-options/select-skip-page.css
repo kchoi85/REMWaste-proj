@@ -1,0 +1,35 @@
+.skip-page {
+  margin: auto;
+  color: #fff;
+  height: 100%;
+  padding-bottom: 4rem;
+}
+
+.subhead {
+  padding-bottom: 1rem;
+}
+
+.step.active {
+  color: white;
+  font-weight: bold;
+  border-bottom: 2px solid #0070f3;
+}
+
+.skip-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+}
+
+.skip-section {
+  margin-bottom: 3rem;
+}
+
+.skip-range-header {
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  padding: 0.5rem;
+  background: #333;
+  opacity: 0.8;
+}
